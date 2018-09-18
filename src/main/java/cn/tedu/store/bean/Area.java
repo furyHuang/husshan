@@ -3,7 +3,6 @@ package cn.tedu.store.bean;
 import java.io.Serializable;
 
 public class Area implements Serializable{
-	private static final long serialVersionUID = -7024097434624454416L;
 	private Integer id;
 	private String cityCode;
 	private String areaCode;
